@@ -32,7 +32,7 @@
 
 ### Tecnologías utilizadas
 
-####Algunas de las tecnologia y metodologias que fueron utlizadas para desarrollar la calculadora
+Algunas de las tecnologia y metodologias que fueron utlizadas para desarrollar la calculadora
 
 - **HTML5**: estructura de la calculadora.
 - **CSS3**: estilos personalizados con diseño en grid.
