@@ -39,3 +39,9 @@ Algunas de las tecnologia y metodologias que fueron utlizadas para desarrollar l
 - **JavaScript**: lógica de interacción con botones y operaciones matemáticas.
 - **Git**: control de versiones.
 - **GitHub**: repositorio y documentación del proyecto.
+
+Estructuracion del proyecto
+
+
+![image](https://github.com/user-attachments/assets/c1295192-046c-4dd8-9d57-9ba9fd0839f5)
+
